@@ -439,7 +439,7 @@
         "@types/node": "^11.11.3",
         "@types/vscode": "1.38.0",
         "glob": "^7.1.4",
-        "mocha": "^7.1.1",
+        "mocha": "^10.1.0",
         "ts-loader": "^6.2.2",
         "typescript": "^3.5.2",
         "vscode-test": "^1.2.3",
